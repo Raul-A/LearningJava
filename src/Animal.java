@@ -4,7 +4,7 @@ public class Animal {
     private int age;
     private boolean hasFourLegs;
 
-    /*Constructor for animals*/
+    /*Constructor*/
     public Animal (String type, String name, int age, boolean hasFourLegs){
         this.type = type;
         this.name = name;
